@@ -2,5 +2,7 @@ This is an android native app to behold different kind of messages, such as enco
 
 Made with Kotlin to study native android development.
 
-![alt text](/motivationApp.jpeg/?raw=true)
+![](/motivationApp.jpeg/?raw=true)
+<img src="/motivationApp.jpeg"  width="300" height="600">
+
 
