@@ -4,7 +4,7 @@ It was made with Kotlin to study native android development. Hope that you enjoy
 
 </br>
 <p align="center">
-  <img src="/motivationApp.jpeg"  width="280" height="600">
+  <img src="/motivationApp.jpeg"  width="280" height="400">
 </p>
 
 
